@@ -33,6 +33,8 @@ string func3(string x){
 	return y;	
 }
 
+
+
 int main(){
     string A;
     cout << "Input text: ";
